@@ -65,6 +65,6 @@ python lava.py
 
 ## 🧠 Credits
 
-Developed as part of an academic internship under **ESAIP Engineering School** for the **Big Data** subject. Supervised by **[Professor’s Name]**.
+Developed as part of an academic internship under **ESAIP Engineering School** for the **Big Data** subject.
 
 ---
