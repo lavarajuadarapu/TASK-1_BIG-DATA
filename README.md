@@ -1,4 +1,15 @@
 # 🚖 PySpark Taxi Trip Data Analysis
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: LAVARAJU ADARAPU
+
+INTERN ID: CT08DH1864
+
+DOMAIN: Data Analysis
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
 
 This project is part of a big data internship assignment where dummy taxi trip data is analyzed using PySpark. The workflow involves data cleaning, transformation, aggregation, and visualization.
 
